@@ -1,6 +1,6 @@
 displayName = Example Mod for SubworldLibrary
 author = heebo
-version = 1
+version = 1.0
 buildIgnore = *.csproj, *.user, *.md, obj\*, bin\*, .vs\*
 modReferences = SubworldLibrary
 homepage = https://github.com/jjohnsnaill/SubworldLibrary/wiki

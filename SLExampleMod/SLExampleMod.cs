@@ -4,18 +4,9 @@
  */
 using Terraria.ModLoader;
 
-namespace ModCallExample
+namespace SLExampleMod
 {
-	public class ModCallExampleMod : Mod
+	public class SLExampleMod : Mod
 	{
-		public override void PostSetupContent()
-		{
-			SubworldManager.Load();
-		}
-
-		public override void Unload()
-		{
-			SubworldManager.Unload();
-		}
 	}
 }
